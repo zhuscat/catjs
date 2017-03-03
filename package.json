@@ -1,11 +1,15 @@
 {
   "name": "catjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "A rough implementation of AMD loader",
   "main": "cat.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "zhuscat",
+  "license": "MIT",
+  "repository": {    
+    "type": "git",
+    "url": "https://github.com/zhuscat/catjs.git"
+  }
 }
